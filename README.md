@@ -1,8 +1,6 @@
-- 👋 Hi, I’m ray
-- 👀 I’m interested in understanding what im doing...?
-- 🌱 I’m currently learning pyhton..
-- 💞️ I’m not really looking to collab on anything!
-- 📫 How to reach me (ray251@icloud.com)
+- 👋 Hi, I’m ray!!
+- 👀 I’m interested in learning and understanding more about coding!!
+- 💞️ I’m not really looking to collab?
 - 😄 Pronouns: she/he/they
 - ⚡ Fun fact: im still new to all this!!
 
